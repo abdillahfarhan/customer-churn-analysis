@@ -1,7 +1,7 @@
 # Customer Churn Analysis
 
 > End-to-end customer churn analysis using Python, exploratory data analysis, statistical analysis, and machine learning to identify high-risk customer segments and support customer retention strategies.
-
+ 
 ## Overview
 
 Customer churn is an important business problem for subscription-based companies. Losing customers can affect recurring revenue, customer lifetime value, and long-term business growth.
