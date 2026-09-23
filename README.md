@@ -208,6 +208,29 @@ Potential areas of action include:
 | Environment | Jupyter Notebook |
 | Version Control | GitHub |
 
+## Reproducibility
+
+The analysis is designed to be reproducible using the Python dependencies listed in requirements.txt.
+Project Status
+
+Status: Portfolio project
+
+Future improvements may include additional statistical testing, feature engineering, model optimization, and model interpretability.
+
+## Author
+
+Abdillah Farhan
+
+Data Analyst | Data Science
+
+Areas of interest:
+- Data Analytics
+- Business Intelligence
+- Statistics
+- Customer Analytics
+- Marketing Analytics
+- Machine Learning
+
 ## Repository Structure
 
 ```text
@@ -220,3 +243,11 @@ customer-churn-analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+
+
+
+
+
+
+
