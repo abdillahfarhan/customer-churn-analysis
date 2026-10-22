@@ -109,7 +109,7 @@ The exploratory analysis investigates customer behavior across several dimension
 
 ### 2. Model Performance Comparison
 
-![Model F1 Score Comparison](outputs/f1_Score_comparison_machine_learning.png)
+![Model F1 Score Comparison](outputs/F1_Score_comparison_machine_learning.png.png)
 
 ### 3. Feature Importance
 
