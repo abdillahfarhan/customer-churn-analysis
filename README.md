@@ -101,6 +101,25 @@ All major data preparation decisions are documented in the analysis notebook.
 
 The exploratory analysis investigates customer behavior across several dimensions, including:
 
+## Visualizations
+
+### 1. Customer Churn Distribution
+
+![Customer Churn Distribution](outputs/churn_distribution.png)
+
+### 2. Model Performance Comparison
+
+![Model F1 Score Comparison](outputs/f1_Score_comparison_machine_learning.png)
+
+### 3. Feature Importance
+
+![Feature Importance](outputs/feature_importance.png)
+
+### 4. Confusion Matrix
+
+![Confusion Matrix](outputs/confusion_matrix.png)
+
+
 ### Customer Characteristics
 
 - Gender
